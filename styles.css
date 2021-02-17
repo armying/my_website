@@ -1,0 +1,26 @@
+/* Syntax: who {what: how;} */
+/* selector {properties: values;} */
+        body {
+            background-color: #EAF6F6;
+        }
+        hr {
+            background-color: #EAF6F6;
+            border-style: none;
+            border-top: dotted 10px #dfe0df;
+            width: 5%
+        }
+        h1 {
+            color: #66BFBF;
+        }
+        h2 {
+            color: #66BFBF;
+        }
+        h3 {
+            color: #66BFBF;
+        }
+        img {
+            height: 200px;
+        }
+        thead {
+            color: #66BFBF
+        }
